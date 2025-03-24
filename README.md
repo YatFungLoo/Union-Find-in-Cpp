@@ -1,4 +1,14 @@
-# Simple Union Find Alogrithm Implementation in C++
+# Simple Union Find Algorithm Implementation in C++
+
+Union Find is a basic algorithm built on using array, combining two operations 1) union and 2) find.
+
+## Introduction
+
+This is a simple implementation using sit-indexed array `id[]`. This is implemented as a practice for to further my understanding on graph's depth first search as their ideas are somewhat related.
+
+## Quick Union Find
+
+TODO: what is quick union / find
 
 ## To run the code
 
