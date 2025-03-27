@@ -6,9 +6,7 @@ Union Find is a basic algorithm built on using array, combining two operations 1
 
 This is a simple implementation using sit-indexed array `id[]`. This is implemented as a practice for to further my understanding on graph's depth first search as their ideas are somewhat related.
 
-## Quick Union Find
-
-TODO: what is quick union / find
+`id[i]` represent the parent id `i`.
 
 ## To run the code
 

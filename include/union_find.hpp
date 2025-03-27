@@ -15,7 +15,7 @@ class UnionFind {
     int count();
 
   private:
-    std::vector<int> id;
+    std::vector<int> id; // id[i] refers to the parent/root node of i.
     int count_;
 };
 
